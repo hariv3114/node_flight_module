@@ -1,0 +1,26 @@
+{
+  "name": "flight_details",
+  "version": "1.0.0",
+  "description": "A node module that can hold a single flight detail for its instance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariv3114/node_flight_module.git"
+  },
+  "keywords": [
+    "node_basic",
+    "module_caching"
+  ],
+  "author": "hariv31 <harigarakumarv@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariv3114/node_flight_module/issues"
+  },
+  "homepage": "https://github.com/hariv3114/node_flight_module#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
